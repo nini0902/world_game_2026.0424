@@ -1,0 +1,11 @@
+{
+  "version": "0.4.0",
+  "language": "en",
+  "createdAt": "2026-04-24T07:15:42.714Z",
+  "tools": [
+    "agents-md",
+    "copilot",
+    "speckit"
+  ],
+  "updatedAt": "2026-04-24T07:15:42.728Z"
+}
